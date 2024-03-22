@@ -13,8 +13,7 @@
 - ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
 - 👨‍💻 Check out my portfolio at https://amr-kory.netlify.app/ to see some of the projects I've worked on.
 ### Connect with Me :
-<a href="https://linkedin.com/in/AmrMohamed" target="_blank"><img src="[https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white](https://www.linkedin.com/in/amrmokamal?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)"/></a>
-<a href="https://t.me/AmrMohamed" target="_blank"><img src="https://img.shields.io/badge/-Yousef%20Dergham-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://linkedin.com/in/amrmokamal" target="_blank"><img src="https://img.shields.io/badge/-Amr%20Muhammed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 
 <a href="https://www.buymeacoffee.com/amrkori" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/lato-orange.png" alt="Buy Me A Coffee" style="height: 50px !important;width: 174px !important;box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;-webkit-box-shadow: 0px 3px 2px 0px rgba(190, 190, 190, 0.5) !important;" ></a>
 
